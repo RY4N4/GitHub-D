@@ -1,3 +1,3 @@
-"""Simple test script to print a greeting."""
 
+"""Simple test script to print a greeting."""
 print("hello")
